@@ -1,0 +1,1 @@
+Pętla for jest używana, gdy chcemy iterować po elementach kolekcji lub znamy liczbę iteracji, podczas gdy pętla while działa tak długo, jak spełniany jest określony warunek. W pętli for kontrola iteracji jest automatyczna, a w while musimy sami zadbać o zakończenie pętli, by uniknąć nieskończonego wykonywania.
